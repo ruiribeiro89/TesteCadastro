@@ -1,0 +1,14 @@
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\bin\Debug\Cadastro.RepositorioEF.dll.config
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\bin\Debug\Cadastro.RepositorioEF.dll
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\bin\Debug\Cadastro.RepositorioEF.pdb
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\bin\Debug\Cadastro.Dominio.dll
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\bin\Debug\EntityFramework.dll
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\bin\Debug\Cadastro.Dominio.pdb
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\bin\Debug\EntityFramework.xml
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\obj\Debug\Cadastro.RepositorioEF.csprojAssemblyReference.cache
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\obj\Debug\Cadastro.RepositorioEF.csproj.CoreCompileInputs.cache
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\obj\Debug\Cadastro.RepositorioEF.csproj.CopyComplete
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\obj\Debug\Cadastro.RepositorioEF.dll
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.RepositorioEF\obj\Debug\Cadastro.RepositorioEF.pdb

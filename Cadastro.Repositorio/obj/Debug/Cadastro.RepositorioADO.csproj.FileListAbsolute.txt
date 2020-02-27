@@ -1,0 +1,9 @@
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.Repositorio\bin\Debug\Cadastro.Repositorio.dll
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.Repositorio\bin\Debug\Cadastro.Repositorio.pdb
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.Repositorio\bin\Debug\Cadastro.Dominio.dll
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.Repositorio\bin\Debug\Cadastro.Dominio.pdb
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.Repositorio\obj\Debug\Cadastro.RepositorioADO.csprojAssemblyReference.cache
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.Repositorio\obj\Debug\Cadastro.RepositorioADO.csproj.CoreCompileInputs.cache
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.Repositorio\obj\Debug\Cadastro.RepositorioADO.csproj.CopyComplete
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.Repositorio\obj\Debug\Cadastro.Repositorio.dll
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.Repositorio\obj\Debug\Cadastro.Repositorio.pdb

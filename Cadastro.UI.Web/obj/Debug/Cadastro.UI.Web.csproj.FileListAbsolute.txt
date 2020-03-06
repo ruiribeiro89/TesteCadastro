@@ -1,3 +1,5 @@
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\obj\Debug\Cadastro.UI.Web.csprojAssemblyReference.cache
+C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\obj\Debug\Cadastro.UI.Web.csproj.CoreCompileInputs.cache
 C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\bin\Cadastro.UI.Web.dll.config
 C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\bin\Cadastro.UI.Web.dll
 C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\bin\Cadastro.UI.Web.pdb
@@ -81,8 +83,6 @@ C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\bin\pt-br\System.Web
 C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\bin\pt-br\System.Web.WebPages.resources.dll
 C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\obj\Debug\Cadastro.UI.Web.csprojAssemblyReference.cache
-C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\obj\Debug\Cadastro.UI.Web.csproj.CoreCompileInputs.cache
 C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\obj\Debug\Cadastro.UI.Web.csproj.CopyComplete
 C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\obj\Debug\Cadastro.UI.Web.dll
 C:\Users\ribei\Desktop\Repositorio\Cadastro\Cadastro.UI.Web\obj\Debug\Cadastro.UI.Web.pdb

@@ -1,3 +1,4 @@
+C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\obj\Debug\UI.Dos.csproj.CoreCompileInputs.cache
 C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\bin\Debug\UI.Dos.exe.config
 C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\bin\Debug\UI.Dos.exe
 C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\bin\Debug\UI.Dos.pdb
@@ -15,7 +16,6 @@ C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\bin\Debug\Cadastro.Repositori
 C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\bin\Debug\EntityFramework.xml
 C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\obj\Debug\UI.Dos.csprojAssemblyReference.cache
-C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\obj\Debug\UI.Dos.csproj.CoreCompileInputs.cache
 C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\obj\Debug\UI.Dos.csproj.CopyComplete
 C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\obj\Debug\UI.Dos.exe
 C:\Users\ribei\Desktop\Repositorio\Cadastro\UI.Dos\obj\Debug\UI.Dos.pdb

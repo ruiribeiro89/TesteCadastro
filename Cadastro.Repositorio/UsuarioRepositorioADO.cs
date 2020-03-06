@@ -21,7 +21,7 @@ namespace Cadastro.RepositorioADO
             var strQuery = "";
             strQuery = "INSERT INTO TBUSUARIO (Nome,DataNascimento,Email,Senha,Ativo,SexoId)";
             strQuery += string.Format("VALUES ('{0}','{1}','{2}','{3}','{4}','{5}')",
-            usuario.Nome, usuario.DataNascimento, usuario.Email, usuario.Senha, usuario.Ativo, usuario.SexoId
+            usuario.Nome, usuario.DataNascimento, usuario.Email, usuario.Senha, usuario.Ativo, usuario.Sexo
             );
             using (contexto = new Contexto())
             {
@@ -104,7 +104,7 @@ namespace Cadastro.RepositorioADO
                     Email = reader["Email"].ToString(),
                     Senha = reader["Senha"].ToString(),
                     Ativo = Boolean.Parse(reader["Ativo"].ToString()),
-                    SexoId = Int32.Parse(reader["SexoId"].ToString()),
+                    //Sexo = Enum.Parse(Sexo, reader["Sexo"].ToString())
 
                 };
                 usuario.Add(temObjeto);

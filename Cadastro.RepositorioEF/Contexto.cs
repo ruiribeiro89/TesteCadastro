@@ -27,7 +27,10 @@ namespace Cadastro.RepositorioEF
             modelBuilder.Entity<Usuario>().Property(x => x.Email).IsRequired().HasColumnType("varchar").HasMaxLength(100);
             modelBuilder.Entity<Usuario>().Property(x => x.Senha).IsRequired().HasColumnType("varchar").HasMaxLength(30);
             modelBuilder.Entity<Usuario>().Property(x => x.Ativo).IsRequired().HasColumnType("bit");
-            modelBuilder.Entity<Usuario>().Property(x => x.SexoId).IsRequired().HasColumnType("int");
+            modelBuilder.Entity<Usuario>().Property(x => x.Sexo).IsRequired().HasColumnType("int");
+            //modelBuilder.Entity<Usuario>().HasRequired(r => r.se);
+
+
 
             modelBuilder.Entity<Sexo>().Property(x => x.SexoId).IsRequired().HasColumnType("int");
             modelBuilder.Entity<Sexo>().Property(x => x.Descricao).IsRequired().HasColumnType("varchar").HasMaxLength(15);

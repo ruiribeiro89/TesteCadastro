@@ -48,7 +48,7 @@ namespace Cadastro.RepositorioEF
                     usuarioAlterar.Email = entidade.Email;
                     usuarioAlterar.Senha = entidade.Senha;
                     usuarioAlterar.Ativo = entidade.Ativo;
-                    usuarioAlterar.SexoId = entidade.SexoId;
+                    usuarioAlterar.Sexo = entidade.Sexo;
                 }
                 else
                 {

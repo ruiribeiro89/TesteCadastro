@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.UI.Web", "Cadastro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.RepositorioEF", "Cadastro.RepositorioEF\Cadastro.RepositorioEF.csproj", "{CFE11958-9969-4366-A3F3-D0686EC907BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{B02829D0-8C8B-493F-BD16-4D68F8506997}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,26 @@ Global
 		{CFE11958-9969-4366-A3F3-D0686EC907BE}.Release|x64.Build.0 = Release|Any CPU
 		{CFE11958-9969-4366-A3F3-D0686EC907BE}.Release|x86.ActiveCfg = Release|Any CPU
 		{CFE11958-9969-4366-A3F3-D0686EC907BE}.Release|x86.Build.0 = Release|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Debug|ARM.Build.0 = Debug|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Debug|x64.Build.0 = Debug|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Debug|x86.Build.0 = Debug|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Release|ARM.ActiveCfg = Release|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Release|ARM.Build.0 = Release|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Release|ARM64.Build.0 = Release|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Release|x64.ActiveCfg = Release|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Release|x64.Build.0 = Release|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Release|x86.ActiveCfg = Release|Any CPU
+		{B02829D0-8C8B-493F-BD16-4D68F8506997}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
